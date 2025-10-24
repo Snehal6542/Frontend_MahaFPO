@@ -30,12 +30,12 @@ const Header: React.FC = () => {
           {/* Navigation */}
           <nav>
             <ul className="flex flex-col md:flex-row md:space-x-8 items-center text-gray-700 font-bold text-lg">
-              <li><a href="#" className="hover:text-[#61CE70]">Home</a></li>
+              <li><a href="/" className="hover:text-[#61CE70]">Home</a></li>
               <li><a href="#" className="hover:text-[#61CE70]">About Us</a></li>
               <li><a href="#" className="hover:text-[#61CE70]">Membership</a></li>
               <li><a href="#" className="hover:text-[#61CE70]">Service</a></li>
               <li><a href="#" className="hover:text-[#61CE70]">News & Event</a></li>
-              <li><a href="#" className="hover:text-[#61CE70]">Contact Us</a></li>
+              <li><a href="Contact-us" className="hover:text-[#61CE70]">Contact Us</a></li>
             </ul>
           </nav>
         </div>
